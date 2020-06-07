@@ -1,6 +1,4 @@
 echo "hello user"
 date >> /tmp/hello.date
-mkdir /tmp/data1
-###############################
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-#################################
+mkdir /tmp/data3
+date >> /tmp/data3/datezzz.txt
